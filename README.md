@@ -33,6 +33,6 @@ Most ads day: conversion did not vary meaningfully by day of week
 
 ## Conclusion
 ## The A/B test shows that disabling advertising did not significantly affect purchase conversion.
-# Users in the Ad group indeed saw more ads, but the day of maximum ad exposure did not significantly influence conversion.
+### Users in the Ad group indeed saw more ads, but the day of maximum ad exposure did not significantly influence conversion.
 
 Recommendation: the company can consider reducing ad spend without risk of losing conversions.
